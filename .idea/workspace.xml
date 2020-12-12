@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb264f75-04f3-4dd5-8ce1-c6ee299bed52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/step/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/step/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/step/ChanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aoc/src/com/step/Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aoc/src/com/step/Day2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lUlxaVpoQFCISjTg3aFvp2dgGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.step" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.step" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ChanceTest">
+    <configuration name="ChanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.step.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.step" />
+      <option name="MAIN_CLASS_NAME" value="com.step.ChanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.step.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.step" />
+      <option name="MAIN_CLASS_NAME" value="com.step.CoinTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinTest.shouldCalculateTheChanceOfGettingTailWhenFlippingACoin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.step.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.step" />
+      <option name="MAIN_CLASS_NAME" value="com.step.CoinTest" />
+      <option name="METHOD_NAME" value="shouldCalculateTheChanceOfGettingTailWhenFlippingACoin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinTest.shouldCalculateTheChanceOfGettingTheGivenFaceWhenFlippingABiasedCoin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.step.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.step" />
+      <option name="MAIN_CLASS_NAME" value="com.step.CoinTest" />
+      <option name="METHOD_NAME" value="shouldCalculateTheChanceOfGettingTheGivenFaceWhenFlippingABiasedCoin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.step" />
+      <option name="MAIN_CLASS_NAME" value="com.step.FacesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CoinTest" />
+      <item itemvalue="JUnit.CoinTest.shouldCalculateTheChanceOfGettingTailWhenFlippingACoin" />
+      <item itemvalue="JUnit.CoinTest.shouldCalculateTheChanceOfGettingTheGivenFaceWhenFlippingABiasedCoin" />
+      <item itemvalue="JUnit.FacesTest" />
+      <item itemvalue="JUnit.ChanceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChanceTest" />
+        <item itemvalue="JUnit.CoinTest.shouldCalculateTheChanceOfGettingTheGivenFaceWhenFlippingABiasedCoin" />
+        <item itemvalue="JUnit.CoinTest" />
+        <item itemvalue="JUnit.CoinTest.shouldCalculateTheChanceOfGettingTailWhenFlippingACoin" />
+        <item itemvalue="JUnit.FacesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb264f75-04f3-4dd5-8ce1-c6ee299bed52" name="Default Changelist" comment="" />
+      <created>1607659800077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607659800077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="865" y="363" key="#com.intellij.ide.util.MemberChooser" timestamp="1607660610142">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="865" y="363" key="#com.intellij.ide.util.MemberChooser/56.25.1992.1255@56.25.1992.1255" timestamp="1607660610142" />
+    <state x="826" y="521" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607664201172">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="826" y="521" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/56.25.1992.1255@56.25.1992.1255" timestamp="1607664201172" />
+    <state x="699" y="313" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607663985938">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="699" y="313" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/56.25.1992.1255@56.25.1992.1255" timestamp="1607663985938" />
+    <state x="790" y="403" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607660469531">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="790" y="403" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/56.25.1992.1255@56.25.1992.1255" timestamp="1607660469531" />
+    <state width="1950" height="353" key="GridCell.Tab.0.bottom" timestamp="1607671219904">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state width="1950" height="353" key="GridCell.Tab.0.bottom/56.25.1992.1255@56.25.1992.1255" timestamp="1607671219904" />
+    <state width="1950" height="353" key="GridCell.Tab.0.center" timestamp="1607671219903">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state width="1950" height="353" key="GridCell.Tab.0.center/56.25.1992.1255@56.25.1992.1255" timestamp="1607671219903" />
+    <state width="1950" height="353" key="GridCell.Tab.0.left" timestamp="1607671219903">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state width="1950" height="353" key="GridCell.Tab.0.left/56.25.1992.1255@56.25.1992.1255" timestamp="1607671219903" />
+    <state width="1950" height="353" key="GridCell.Tab.0.right" timestamp="1607671219904">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state width="1950" height="353" key="GridCell.Tab.0.right/56.25.1992.1255@56.25.1992.1255" timestamp="1607671219904" />
+    <state x="765" y="549" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607664147686">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="765" y="549" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/56.25.1992.1255@56.25.1992.1255" timestamp="1607664147686" />
+    <state x="831" y="439" width="442" height="352" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607664215169">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="831" y="439" width="442" height="352" key="com.intellij.testIntegration.createTest.CreateTestDialog/56.25.1992.1255@56.25.1992.1255" timestamp="1607664215169" />
+    <state x="458" y="272" key="new project wizard" timestamp="1607671217676">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="458" y="272" key="new project wizard/56.25.1992.1255@56.25.1992.1255" timestamp="1607671217676" />
+    <state x="752" y="422" key="refactoring.ChangeSignatureDialog" timestamp="1607666316231">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="752" y="422" key="refactoring.ChangeSignatureDialog/56.25.1992.1255@56.25.1992.1255" timestamp="1607666316231" />
+    <state x="717" y="309" width="670" height="676" key="search.everywhere.popup" timestamp="1607671206375">
+      <screen x="56" y="25" width="1992" height="1255" />
+    </state>
+    <state x="717" y="309" width="670" height="676" key="search.everywhere.popup/56.25.1992.1255@56.25.1992.1255" timestamp="1607671206375" />
+  </component>
+</project>
